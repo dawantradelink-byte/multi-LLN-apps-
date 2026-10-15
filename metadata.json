@@ -1,0 +1,6 @@
+{
+  "name": "DAWAN aI",
+  "description": "Modern, high-fidelity AI chat interface with Claude mobile aesthetic powered by OpenRouter and OmniRoute",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

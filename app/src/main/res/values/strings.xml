@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DAWAN aI</string>
+    <string name="chat_placeholder">Chat with DAWAN aI…</string>
+    <string name="empty_greeting">Up late, ishak dawan?</string>
+    <string name="empty_subtitle">Ask DAWAN aI anything. Powered by OpenRouter &amp; OmniRoute.</string>
+    <string name="model_selector">Select Model</string>
+    <string name="settings_title">Settings</string>
+    <string name="provider_label">Provider</string>
+    <string name="openrouter_label">OpenRouter</string>
+    <string name="omniroute_label">OmniRoute</string>
+    <string name="openrouter_api_key">OpenRouter API Key</string>
+    <string name="omniroute_api_key">OmniRoute API Key</string>
+    <string name="omniroute_base_url">OmniRoute Base URL</string>
+    <string name="openrouter_base_url">OpenRouter Base URL</string>
+    <string name="save_and_close">Save &amp; Close</string>
+    <string name="disclaimer">DAWAN aI can make mistakes. Consider checking important information.</string>
+</resources>
